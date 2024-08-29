@@ -66,7 +66,8 @@ task-manager-app/
 └── README.md
 
 
-Habilidades e Conhecimentos Adquiridos
+**Habilidades e Conhecimentos Adquiridos**
+```bash
 Neste projeto, foram desenvolvidas e aprimoradas as seguintes habilidades e conhecimentos:
 
 Frontend
